@@ -21,5 +21,7 @@ be devised to allow app access. It is unclear though how to organize repositorie
 allow to collect only recipes you are interested in. Having all recipes in single repository is easier to manage, but then cloning one of
 the recipes from other person's repository becomes impossible. Also, other person's recipes even if cloned would be in different repos.
 
+Each recipe goes to separate branch maybe?
+
 ## Action
 I'm starting to add my recipes here, and would try to devise some kind of data schema so recipes are machine readable.
