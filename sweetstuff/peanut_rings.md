@@ -16,4 +16,4 @@
 Выпекать ~12 минут при температуре 170 °C (340 F).
 
 ## Reference
-[Source](http://volshebnaya-eda.ru/kollekcia-receptov/vypechka/domashnee-pechene/kolco)]
+[Source](http://volshebnaya-eda.ru/kollekcia-receptov/vypechka/domashnee-pechene/kolco)
