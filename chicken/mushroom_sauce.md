@@ -1,4 +1,4 @@
-# Checkin with mushroom creamy sauce
+# Chicken with mushroom creamy sauce
 
 ## Ingredients
 * Chicken breasts, 4
