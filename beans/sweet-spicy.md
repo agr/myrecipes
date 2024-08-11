@@ -20,3 +20,6 @@
 2. Bake covered at 350 F for 45 minutes.
 3. Remove cover, add topping ingredient
 4. Bake 5-10 more minutues, until bubbly.
+
+# References
+* [Source](https://www.tasteofhome.com/recipes/sweet-and-spicy-baked-beans/)
