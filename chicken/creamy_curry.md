@@ -14,10 +14,10 @@
 * Butter
 
 ## Directions
+1. Put cut chicken into bowl, add all spices, salt, add olive oil and mix. Leave for ~10 minutes;
 1. Fine chop onions and garlic;
 3. Cut peppers into small slices;
 4. Cut chicken into pieces of desired size;
-5. Put cut chicken into bow, add all spices, salt, add olive oil and mix. Leave for ~10 minutes;
 6. Fry onions on oil/butter mix, add garlic couple of minutes after starting;
 7. When onions start changing its color, add chicken, mix occasionally;
 8. When chicken gets a crust, add pepper slices;
