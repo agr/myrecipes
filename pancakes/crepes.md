@@ -4,8 +4,8 @@
 * Sugar, 2 teaspoons (9 grams)
 * Salt, 1/2 teaspoons (4 grams)
 * Eggs, 6 ct
-* Milk, 4 cups
-* Butter, 4 tablespoons
+* Milk, 4 cups (960 grams)
+* Butter, 4 tablespoons (55 grams)
 
 ## Directions
 1. Mix the flour, sugar and salt
