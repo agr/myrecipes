@@ -1,8 +1,8 @@
 # French crepes
 ## Ingredients
-* Flour, 2 cups
-* Sugar, 2 teaspoons
-* Salt, 1/2 teaspoons
+* Flour, 2 cups (300 grams)
+* Sugar, 2 teaspoons (9 grams)
+* Salt, 1/2 teaspoons (4 grams)
 * Eggs, 6 ct
 * Milk, 4 cups
 * Butter, 4 tablespoons
